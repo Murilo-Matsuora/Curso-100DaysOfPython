@@ -1,0 +1,35 @@
+html {
+    background-color: black;
+    color: white;
+}
+
+div {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+.libre-baskerville-regular {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.libre-baskerville-bold {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.to-upper-case {
+    text-transform: uppercase;
+}
+
+.align-to-center {
+    text-align: center;
+}
+
+#img_zenitsu {
+    border: 5px solid white;
+    width: 100%;
+}
